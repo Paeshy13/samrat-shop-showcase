@@ -34,6 +34,16 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Debug - List directories
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Directory contents:"
+          ls -la
+          echo "Checking for docs or dist:"
+          ls -la docs 2>/dev/null || echo "docs not found"
+          ls -la dist 2>/dev/null || echo "dist not found"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
