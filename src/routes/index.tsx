@@ -97,10 +97,6 @@ const operatingHours = [
 
 const faqs = [
   {
-    question: "Do you offer home delivery?",
-    answer: "Yes! Orders above 500 KES within Nyeri town get free delivery. Call us or use WhatsApp to order.",
-  },
-  {
     question: "What payment methods do you accept?",
     answer: "We accept Cash, M-Pesa, and cards. All methods are welcome!",
   },
