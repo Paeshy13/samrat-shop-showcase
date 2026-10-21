@@ -283,7 +283,7 @@ function Index() {
           <div className="text-center">
             <p className="text-slate-600 dark:text-slate-400 mb-4">These are just a few of our products!</p>
             <a
-              href="https://wa.me/254612032336?text=Hi%20Samrat%20Supermarket!%20I'd%20like%20to%20know%20more%20about%20your%20products"
+              href="https://wa.me/254790921202?text=Hi%20Samrat%20Supermarket!%20I'd%20like%20to%20know%20more%20about%20your%20products"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 bg-green-500 text-white font-bold rounded hover:bg-green-600 transition-colors"
@@ -343,7 +343,7 @@ function Index() {
           <div className="mt-12 p-8 bg-samrat-blue dark:bg-slate-900 text-white rounded-xl text-center">
             <p className="text-lg mb-4">📢 Extended hours during festive seasons!</p>
             <a
-              href="https://wa.me/254612032336?text=Hi%20Samrat!%20What%20are%20your%20festive%20season%20hours?"
+              href="https://wa.me/254790921202?text=Hi%20Samrat!%20What%20are%20your%20festive%20season%20hours?"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-samrat-orange hover:text-orange-400 transition-colors font-bold"
@@ -453,10 +453,10 @@ function Index() {
                 <div>
                   <p className="font-bold text-lg">Call Us</p>
                   <a
-                    href="tel:+254612032336"
+                    href="tel:+254790921202"
                     className="text-white/70 hover:text-white transition-colors"
                   >
-                    +254 61 2032336
+                    0790921202
                   </a>
                 </div>
               </div>
@@ -465,7 +465,7 @@ function Index() {
                 <div>
                   <p className="font-bold text-lg">WhatsApp</p>
                   <a
-                    href="https://wa.me/254612032336"
+                    href="https://wa.me/254790921202"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/70 hover:text-white transition-colors"
@@ -526,7 +526,7 @@ function Index() {
 
       {/* Floating WhatsApp Button */}
       <a
-        href="https://wa.me/254612032336?text=Hi%20Samrat%20Supermarket!%20I%20have%20a%20question"
+        href="https://wa.me/254790921202?text=Hi%20Samrat%20Supermarket!%20I%20have%20a%20question"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-8 right-8 bg-green-500 text-white p-4 rounded-full shadow-lg hover:bg-green-600 transition-all hover:scale-110 z-40 flex items-center justify-center"
@@ -558,9 +558,9 @@ function Index() {
             <div>
               <h3 className="font-bold mb-4">Contact</h3>
               <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
-                <li><a href="tel:+254612032336" className="hover:text-samrat-orange transition-colors">+254 61 2032336</a></li>
+                <li><a href="tel:+254790921202" className="hover:text-samrat-orange transition-colors">0790921202</a></li>
                 <li><a href="mailto:samratsupermarket@yahoo.com" className="hover:text-samrat-orange transition-colors">samratsupermarket@yahoo.com</a></li>
-                <li><a href="https://wa.me/254612032336" target="_blank" rel="noopener noreferrer" className="hover:text-samrat-orange transition-colors">WhatsApp</a></li>
+                <li><a href="https://wa.me/254790921202" target="_blank" rel="noopener noreferrer" className="hover:text-samrat-orange transition-colors">WhatsApp</a></li>
               </ul>
             </div>
             <div>
@@ -626,7 +626,7 @@ function Index() {
             "addressCountry": "KE",
             "postOfficeBoxNumber": "12309"
           },
-          "telephone": "+254612032336",
+          "telephone": "+254790921202",
           "email": "samratsupermarket@yahoo.com",
           "openingHoursSpecification": [
             {
